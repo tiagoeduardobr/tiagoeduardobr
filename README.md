@@ -15,7 +15,6 @@ Desenvolvedor Full-Stack em Blumenau/SC, focado em transformar ideias complexas 
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
