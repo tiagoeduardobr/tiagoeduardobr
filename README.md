@@ -16,8 +16,7 @@ Desenvolvedor focado em criar soluções simples, eficientes e com boa experiên
 
 ## 📫 Contato
 - GitHub: [@tiagoeduardobr](https://github.com/tiagoeduardobr)
-- LinkedIn: _adicione seu perfil aqui_
-- Email: _adicione seu email aqui_
+- Para contato profissional, use o GitHub.
 
 ## 📊 Estatísticas
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=tokyonight)
