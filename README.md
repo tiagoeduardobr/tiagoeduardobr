@@ -36,4 +36,4 @@ Desenvolvedor Full-Stack em Blumenau/SC, focado em transformar ideias complexas 
 - 📩 Sinta-se à vontade para enviar uma mensagem.
 
 ## 📊 Estatísticas
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=tokyonight)
+[Ver estatísticas no GitHub](https://github.com/tiagoeduardobr)
