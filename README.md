@@ -3,7 +3,7 @@
 Desenvolvedor Full-Stack em Blumenau/SC, focado em transformar ideias complexas em soluções digitais escaláveis e de alto impacto.
 
 ## 🚀 Sobre mim
-- 🛒 Foco em arquitetura de e-commerces, otimização de performance e integração de IA
+- 🛒 Foco em arquitetura de plataformas de e-commerce, otimização de performance e integração de IA
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas, com aprendizado contínuo em Software, Dados e IA
 - ⚙️ Construo plataformas de e-commerce ponta a ponta com APIs otimizadas e automações
 - 📈 Trabalho com melhorias de performance em projetos de e-commerce, com foco em redução de tempo de carregamento e melhor experiência do usuário
@@ -24,11 +24,11 @@ Desenvolvedor Full-Stack em Blumenau/SC, focado em transformar ideias complexas 
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 
 ## 💡 Além do código
-- Estudante de Empreendedorismo Criativo, explorando a interseção entre tecnologia e trabalho artesanal
+- Estudante de Empreendedorismo Criativo, explorando a interseção entre tecnologia e trabalho artesanal/joalheria
 - Interesse em aplicar IA também em projetos criativos, como design para joias com pedras naturais
 
 ## 🎯 Objetivo
-- Busco oportunidades como Desenvolvedor Full-Stack remoto e colaborações no ecossistema de Santa Catarina
+- Busco oportunidades como Desenvolvedor Full-Stack remoto e colaborações em projetos de e-commerce com startups no ecossistema de Santa Catarina
 
 ## 📫 Contato
 - GitHub: [@tiagoeduardobr](https://github.com/tiagoeduardobr)
