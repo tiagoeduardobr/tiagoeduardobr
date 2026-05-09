@@ -8,14 +8,15 @@ Desenvolvedor focado em criar soluções simples, eficientes e com boa experiên
 - 🤝 Aberto a colaborações em projetos de impacto
 
 ## 🛠️ Tecnologias
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## 📫 Contato
 - GitHub: [@tiagoeduardobr](https://github.com/tiagoeduardobr)
+- LinkedIn: [tiagoeduardobr](https://www.linkedin.com/in/tiagoeduardobr/)
 - Para contato profissional, use o GitHub.
 
 ## 📊 Estatísticas
