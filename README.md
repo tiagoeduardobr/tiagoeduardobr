@@ -6,7 +6,7 @@ Desenvolvedor Full-Stack em Blumenau/SC, focado em transformar ideias complexas 
 - 🛒 Foco em arquitetura de e-commerces, otimização de performance e integração de IA
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas, com aprendizado contínuo em Software, Dados e IA
 - ⚙️ Construo plataformas de e-commerce ponta a ponta com APIs otimizadas e automações
-- 📈 Trabalho com melhorias de performance que podem reduzir tempo de carregamento em até 40%
+- 📈 Trabalho com melhorias de performance que, em projetos de e-commerce, já reduziram tempo de carregamento em até 40%
 - ♿ Priorizo acessibilidade (WCAG), SEO técnico e boas práticas de experiência do usuário
 - 🤝 Aberto a colaborações com startups inovadoras e projetos de impacto
 
@@ -33,7 +33,6 @@ Desenvolvedor Full-Stack em Blumenau/SC, focado em transformar ideias complexas 
 ## 📫 Contato
 - GitHub: [@tiagoeduardobr](https://github.com/tiagoeduardobr)
 - LinkedIn: [tiagoeduardobr](https://www.linkedin.com/in/tiagoeduardobr/)
-- Conheça meus projetos: https://github.com/tiagoeduardobr
 - 📩 Sinta-se à vontade para enviar uma mensagem.
 
 ## 📊 Estatísticas
