@@ -1,0 +1,34 @@
+name: Atualizar Stats do Perfil
+
+on:
+  schedule:
+    # Roda diariamente às 06:00 UTC (03:00 BRT)
+    - cron: "0 6 * * *"
+  workflow_dispatch:  # Permite execução manual
+
+jobs:
+  update-readme:
+    name: Atualizar README com Stats Recentes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Atualizar data no README
+        run: |
+          # Atualiza a data da última atualização no README via sed
+          DATA_UTC=$(date -u '+%d/%m/%Y às %H:%M UTC')
+          sed -i "s|\(Última atualização dos stats:\).*|\1 $DATA_UTC</sub>|" README.md
+
+      - name: Commit e Push (se houver mudanças)
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "chore: atualizar stats do perfil - $(date -u '+%d/%m/%Y') [skip ci]"
+            git push
+          fi
