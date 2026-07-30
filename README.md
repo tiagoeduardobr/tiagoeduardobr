@@ -73,7 +73,7 @@ Desenvolvedor Júnior em Blumenau/SC, buscando transformar ideias em soluções 
       
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" width="100%" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" width="100%" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
@@ -111,8 +111,8 @@ Desenvolvedor Júnior em Blumenau/SC, buscando transformar ideias em soluções 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoeduardobr&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" />
+    <img height="180em" src="https://github-readme-stats-tiagoeduardobr.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" />
+    <img height="180em" src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/top-langs/?username=tiagoeduardobr&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" />
   </a>
 </div>
 
@@ -162,14 +162,14 @@ Desenvolvedor Júnior em Blumenau/SC, buscando transformar ideias em soluções 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/tiagoeduardobr/Desafio_SCTEC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagoeduardobr&repo=Desafio_SCTEC&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Desafio SCTEC"/>
+        <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/pin/?username=tiagoeduardobr&repo=Desafio_SCTEC&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Desafio SCTEC"/>
       </a>
       <br/>
       <sub>Landing page BytePets — HTML, CSS, JS. Glassmorphism, acessível e responsivo.</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/tiagoeduardobr/Desafio_SCTEC_Analise_de_dados">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagoeduardobr&repo=Desafio_SCTEC_Analise_de_dados&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Análise de Dados"/>
+        <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/pin/?username=tiagoeduardobr&repo=Desafio_SCTEC_Analise_de_dados&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Análise de Dados"/>
       </a>
       <br/>
       <sub>Análise de dados com Python, Pandas e Jupyter Notebook.</sub>
@@ -178,14 +178,14 @@ Desenvolvedor Júnior em Blumenau/SC, buscando transformar ideias em soluções 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/tiagoeduardobr/opencode_termux">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagoeduardobr&repo=opencode_termux&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Opencode Termux"/>
+        <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/pin/?username=tiagoeduardobr&repo=opencode_termux&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Opencode Termux"/>
       </a>
       <br/>
       <sub>Configuração do Opencode para Termux.</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/tiagoeduardobr/react_native">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagoeduardobr&repo=react_native&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="React Native"/>
+        <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/pin/?username=tiagoeduardobr&repo=react_native&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="React Native"/>
       </a>
       <br/>
       <sub>Desenvolvimento mobile com React Native.</sub>
