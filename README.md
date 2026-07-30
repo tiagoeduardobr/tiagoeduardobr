@@ -29,7 +29,7 @@ Token              | Hex       | Uso
 <!-- ===== HERO / HEADER ===== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Olá!;Seja+bem+vindo!;Eu+sou+Tiago+Eduardo+Zimmermann;Desenvolvedor+Júnior;Python+%26+IA+Enthusiast;React+Native+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Olá!;Seja+bem+vindo!;Eu+sou;Tiago+Eduardo+Zimmermann;Desenvolvedor+Júnior;Python+%26+IA+Enthusiast;React+Native+Learner" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://img.shields.io/badge/Blumenau-SC-58a6ff?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
