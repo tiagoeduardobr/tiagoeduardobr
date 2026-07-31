@@ -54,7 +54,7 @@ Token              | Hex       | Uso
 
 ---
 
-# Olá, eu sou o Tiago Eduardo Zimmermann 👯
+# Olá, eu sou o Tiago Eduardo Zimmermann!
 
 Desenvolvedor Júnior em Blumenau/SC, buscando transformar ideias em soluções digitais práticas e de impacto.
 
