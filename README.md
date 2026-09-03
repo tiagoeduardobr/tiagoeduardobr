@@ -196,7 +196,7 @@ Busco oportunidades como **Desenvolvedor Júnior remoto**, onde possa aplicar me
 ---
 
 <p align="center">
-  <sub>Última atualização dos stats: 02/09/2026 às 11:03 UTC</sub>
+  <sub>Última atualização dos stats: 03/09/2026 às 11:00 UTC</sub>
   <br/>
   <sub>Gerado com ♥ por <a href="https://github.com/tiagoeduardobr/tiagoeduardobr/actions">GitHub Actions</a></sub>
 </p>
