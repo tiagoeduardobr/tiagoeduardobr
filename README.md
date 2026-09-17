@@ -41,10 +41,6 @@ Token              | Hex       | Uso
 
 ---
 
-# Olá, eu sou o Tiago Eduardo Zimmermann!
-
-Desenvolvedor Júnior em Blumenau/SC, buscando transformar ideias em soluções digitais práticas e de impacto.
-
 ## 🚀 Sobre mim
 
 - 🔍 **Buscando oportunidade remota** — Desenvolvedor Júnior em transição, focado em construir projetos práticos e entregar valor real
@@ -54,60 +50,7 @@ Desenvolvedor Júnior em Blumenau/SC, buscando transformar ideias em soluções 
 - 🐍 **Stack Principal** — Python, FastAPI, TypeScript, React, Pandas, Docker, SQL
 - 🤝 **Aberto a conexões** — Buscando networking com devs, startups e empresas com cultura remota
 
-<p align="center">
-  <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" width="100%" alt="GitHub Stats"/>
-</p>
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🐍 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" width="100%" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/top-langs/?username=tiagoeduardobr&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" width="100%" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoeduardobr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" width="100%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tiagoeduardobr&theme=onestar&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagoeduardobr&theme=github-dark&bg_color=0d1117&hide_border=true&point=58a6ff&color=58a6ff&line=3fb950&area=true" width="100%" alt="Contribution Graph"/>
-</div>
+---
 
 ## 📌 Projetos em Destaque
 
@@ -173,9 +116,61 @@ Desenvolvedor Júnior em Blumenau/SC, buscando transformar ideias em soluções 
   </a>
 </p>
 
-## 🎯 Objetivo
+---
 
-Busco oportunidades como **Desenvolvedor Júnior remoto**, onde possa aplicar meus conhecimentos em Python, FastAPI e TypeScript, contribuir com projetos reais e continuar aprendendo. Atualmente focado em construir o **Parecer Descritivo** (FastAPI + IA Generativa) e estudando **React Native** para expandir minhas habilidades.
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🐍 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" width="100%" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/top-langs/?username=tiagoeduardobr&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" width="100%" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoeduardobr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" width="100%" alt="GitHub Streak"/>
+</div>
+
+<!-- 🏆 GitHub Trophies — REMOVIDO TEMPORARIAMENTE (17/09/2026)
+     URL pública (github-profile-trophy.vercel.app) retorna 402.
+     Deploy próprio (github-profile-trophy-erunocarm-tiagoeduardobrs-projects.vercel.app) retorna 500
+     até configurar GITHUB_TOKEN1 e GITHUB_TOKEN2 no Vercel.
+     Reativar quando o deploy próprio responder HTTP 200:
+     <img src="https://github-profile-trophy-erunocarm-tiagoeduardobrs-projects.vercel.app/?username=tiagoeduardobr&theme=onestar&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+-->
+
+<!-- 📊 Contribution Graph — REMOVIDO TEMPORARIAMENTE (17/09/2026)
+     Instância pública (github-readme-activity-graph.vercel.app) retorna 402 DEPLOYMENT_DISABLED.
+     Reativar quando houver instância própria funcionando:
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagoeduardobr&theme=github-dark&bg_color=0d1117&hide_border=true&point=58a6ff&color=58a6ff&line=3fb950&area=true" width="100%" alt="Contribution Graph"/>
+-->
+
+---
 
 ## 📫 Contato
 
