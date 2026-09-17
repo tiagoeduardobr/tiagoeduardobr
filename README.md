@@ -1,205 +1,163 @@
-<!-- 
-🎨 Paleta de Cores — Dark Mode (Perfil GitHub)
-================================================
-Token              | Hex       | Uso
---bg-primary       | #0d1117   | Fundo principal (GitHub Dark)
---bg-card          | #161b22   | Fundo de cards/seções
---text-primary     | #e6edf3   | Texto principal
---text-secondary   | #8b949e   | Texto secundário
---accent-blue      | #58a6ff   | Links, destaques, badges
---accent-green     | #3fb950   | Sucesso, online, stats positivos
---accent-orange    | #d29922   | Atenção, badges de linguagens
---accent-purple    | #bc8cff   | Dados/IA badges
---border           | #30363d   | Bordas e separadores
--->
+# Olá, eu sou Tiago Eduardo Zimmermann 👋
 
-<!-- ===== HERO / HEADER ===== -->
+**Desenvolvedor de Software | Python | Full-Stack | React | APIs REST | IA Generativa**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Olá!;Seja+bem+vindo!;Eu+sou;Tiago+Eduardo+Zimmermann;Desenvolvedor+Júnior;Python+%26+IA+Enthusiast;React+Native+Learner" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Blumenau-SC-58a6ff?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
-    <img src="https://img.shields.io/badge/Buscando%20oportunidade-REMOTA-3fb950?style=flat-square&logo=remote&logoColor=white" alt="Availability"/>
-    <img src="https://img.shields.io/badge/Nível-Júnior-d29922?style=flat-square&logo=code&logoColor=white" alt="Level"/>
-  </p>
-</div>
+Em transição de carreira, construindo soluções web com Python, FastAPI, PostgreSQL e React — com uma aplicação em produção e aprendizado contínuo em IA Generativa e desenvolvimento assistido por IA.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiagoeduardobr&color=58a6ff&style=flat-square&label=Visitantes" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/tiagoeduardobr?label=Seguidores&style=flat-square&color=3fb950" alt="Followers"/>
-</p>
-
-<p align="center">
-  <b>Desenvolvedor Júnior</b> em Blumenau/SC, buscando oportunidade remota.
-  Atualmente construindo <a href="https://parecer-descritivo.onrender.com"><b>Parecer Descritivo</b></a>,
-  um app web com FastAPI + IA Generativa, e estudando React Native.
-  Transformo ideias em soluções práticas com Python, TypeScript e boas práticas de desenvolvimento.
-</p>
-
-<!-- ===== FIM HERO ===== -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoeduardobr/)
+[![GitHub](https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiagoeduardobr)
+[![E-mail](https://img.shields.io/badge/E--mail-d29922?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagoeduardobr@gmail.com)
+[![Parecer Descritivo](https://img.shields.io/badge/Parecer%20Descritivo-3fb950?style=for-the-badge&logo=globe&logoColor=white)](https://parecer-descritivo.onrender.com)
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 🔍 **Buscando oportunidade remota** — Desenvolvedor Júnior em transição, focado em construir projetos práticos e entregar valor real
-- 🚀 **Projeto Principal** — Construindo o [**Parecer Descritivo**](https://parecer-descritivo.onrender.com), app web com FastAPI + IA Generativa para professores da Educação Infantil
-- 📱 **React Native** — Estudando desenvolvimento mobile para expandir atuação como desenvolvedor
-- 🎓 **Formação** — Cursando Análise e Desenvolvimento de Sistemas, com aprendizado contínuo em Dados e IA
-- 🐍 **Stack Principal** — Python, FastAPI, TypeScript, React, Pandas, Docker, SQL
-- 🤝 **Aberto a conexões** — Buscando networking com devs, startups e empresas com cultura remota
+Desenvolvedor de Software em transição de carreira, com ~25 anos de experiência profissional na área automotiva e uma trajetória recente e intensa de formação em tecnologia.
 
----
+A experiência automotiva me ensinou a diagnosticar problemas, analisar causas, seguir procedimentos com rigor e entregar com qualidade — competências que hoje aplico diretamente no desenvolvimento de software: raciocínio analítico, resolução de problemas, atenção aos detalhes, responsabilidade, organização, comunicação, colaboração, cumprimento de procedimentos e prazos, adaptabilidade e aprendizado contínuo. Atualmente atuo como Mecânico de Automóveis na TC Mecânica (Blumenau/SC), enquanto construo minha transição para o desenvolvimento de software.
 
-## 📌 Projetos em Destaque
-
-### 🏆 Projeto Principal
-
-<div align="center">
-  <h3>
-    <a href="https://parecer-descritivo.onrender.com">🚀 Parecer Descritivo</a>
-  </h3>
-  <p>
-    <b>App web FastAPI + IA Generativa</b> — Gera pareceres descritivos para professores
-    da Educação Infantil usando inteligência artificial.
-  </p>
-  <p>
-    <a href="https://parecer-descritivo.onrender.com">
-      <img src="https://img.shields.io/badge/Acessar_Produção-3fb950?style=for-the-badge&logo=render&logoColor=white" alt="Produção"/>
-    </a>
-  </p>
-  <p align="left">
-    <b>Stack:</b> Python, FastAPI, JavaScript, HTML5, CSS3, PostgreSQL, Docker, IA Generativa<br/>
-    <b>Segurança:</b> JWT, Argon2, OWASP Top 10<br/>
-    <b>Status:</b> 🟢 Em produção (plano gratuito — pode levar ~30s no primeiro acesso)
-  </p>
-</div>
-
-### 📂 Demais Projetos
-
-<p align="center">
-  <a href="https://github.com/tiagoeduardobr/Desafio_SCTEC">
-    <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/pin/?username=tiagoeduardobr&repo=Desafio_SCTEC&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Desafio SCTEC"/>
-  </a>
-  <br/>
-  <sub>Landing page BytePets — HTML, CSS, JS. Glassmorphism, acessível e responsivo.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tiagoeduardobr/Desafio_SCTEC_Analise_de_dados">
-    <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/pin/?username=tiagoeduardobr&repo=Desafio_SCTEC_Analise_de_dados&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Análise de Dados"/>
-  </a>
-  <br/>
-  <sub>Análise de dados com Python, Pandas e Jupyter Notebook.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tiagoeduardobr/opencode_termux">
-    <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/pin/?username=tiagoeduardobr&repo=opencode_termux&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="Opencode Termux"/>
-  </a>
-  <br/>
-  <sub>Configuração do Opencode para Termux.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tiagoeduardobr/react_native">
-    <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/pin/?username=tiagoeduardobr&repo=react_native&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" width="100%" alt="React Native"/>
-  </a>
-  <br/>
-  <sub>Desenvolvimento mobile com React Native.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tiagoeduardobr?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e construo projetos práticos com Python, FastAPI, PostgreSQL e React — incluindo uma aplicação web em produção.
 
 ---
 
-## 🛠️ Tech Stack
+## Atualmente
 
-### 🎨 Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🐍 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (UNIASSELVI — fev/2025 a jun/2027)
+- 📱 Estudando **React Native** (SCTEC / Governo de Santa Catarina)
+- ⚛️ Em **migração gradual do front-end do Parecer Descritivo para React** (app continua em produção)
+- 🤖 Explorando **orquestração de agentes de IA**, modelos de IA open source e **Spec-Driven Development (SDD)**
+- 🐧 Aprendendo **Linux** e **Termux** no dia a dia
 
 ---
 
-## 📈 GitHub Analytics
+## Projeto em destaque: Parecer Descritivo
 
-<div align="center">
-  <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" width="100%" alt="GitHub Stats"/>
-</div>
+Aplicação web **em produção** que apoia professores da Educação Infantil na elaboração de pareceres descritivos, com referências na **BNCC** e no currículo da Educação Básica de Blumenau.
 
-<div align="center">
-  <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api/top-langs/?username=tiagoeduardobr&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" width="100%" alt="Top Languages"/>
-</div>
+🔗 **Acesse:** [parecer-descritivo.onrender.com](https://parecer-descritivo.onrender.com)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoeduardobr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" width="100%" alt="GitHub Streak"/>
-</div>
+| Área | Tecnologias |
+|---|---|
+| Back-end | Python, FastAPI, APIs REST |
+| Banco de dados | PostgreSQL, SQL, Neon |
+| Front-end | JavaScript, HTML5, CSS3 (original) → **migração gradual para React** (em andamento) |
+| Infraestrutura | Docker, Git, GitHub, CI/CD, Render (monólito) |
+| Inteligência Artificial | Groq + GPT-OSS-20B |
+| Segurança | Autenticação JWT, expiração de tokens, área administrativa, variáveis de ambiente |
 
-<!-- 🏆 GitHub Trophies — REMOVIDO TEMPORARIAMENTE (17/09/2026)
-     URL pública (github-profile-trophy.vercel.app) retorna 402.
-     Deploy próprio (github-profile-trophy-erunocarm-tiagoeduardobrs-projects.vercel.app) retorna 500
-     até configurar GITHUB_TOKEN1 e GITHUB_TOKEN2 no Vercel.
-     Reativar quando o deploy próprio responder HTTP 200:
-     <img src="https://github-profile-trophy-erunocarm-tiagoeduardobrs-projects.vercel.app/?username=tiagoeduardobr&theme=onestar&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
--->
+**Qualidade:** 201 testes automatizados passando, integrados ao CI/CD.
 
-<!-- 📊 Contribution Graph — REMOVIDO TEMPORARIAMENTE (17/09/2026)
-     Instância pública (github-readme-activity-graph.vercel.app) retorna 402 DEPLOYMENT_DISABLED.
-     Reativar quando houver instância própria funcionando:
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagoeduardobr&theme=github-dark&bg_color=0d1117&hide_border=true&point=58a6ff&color=58a6ff&line=3fb950&area=true" width="100%" alt="Contribution Graph"/>
--->
+**Proteção de dados:** o app adota práticas de proteção de dados e princípios relacionados à LGPD — o nome da criança é substituído por um placeholder antes do processamento pela IA, reduzindo o envio de dados pessoais à LLM, com instruções de segurança para a IA não utilizar o nome indevidamente.
+
+**AI-Assisted Development:** desenvolvido com assistência de IA (implementação, geração de código, análise, revisão, refatoração, testes, documentação, resolução de problemas e exploração de alternativas técnicas), com decisões técnicas, especificação, integração, validação, testes, correções e evolução sob **supervisão humana**.
 
 ---
 
-## 📫 Contato
+## Stack e tecnologias
 
-<div align="center">
-  <a href="https://github.com/tiagoeduardobr">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tiagoeduardobr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tiagoeduardobr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+### Em uso (projetos práticos)
 
-<p align="center">📩 Sinta-se à vontade para enviar uma mensagem. Estou aberto a conexões e oportunidades!</p>
+[![Python](https://img.shields.io/badge/Python-3fb950?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-58a6ff?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![REST APIs](https://img.shields.io/badge/REST%20APIs-58a6ff?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-58a6ff?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/SQL-d29922?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-58a6ff?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-d29922?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-3fb950?style=for-the-badge&logo=githubactions&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-d29922?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-d29922?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-58a6ff?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JWT](https://img.shields.io/badge/JWT-bc8cff?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![IA Generativa](https://img.shields.io/badge/IA%20Generativa-bc8cff?style=for-the-badge&logo=openai&logoColor=white)]()
+[![LLMs](https://img.shields.io/badge/LLMs-bc8cff?style=for-the-badge&logo=openai&logoColor=white)]()
+
+### Em estudo / experimentação
+
+[![React Native](https://img.shields.io/badge/React%20Native-58a6ff?style=for-the-badge&logo=react&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Agentes de IA](https://img.shields.io/badge/Agentes%20de%20IA-bc8cff?style=for-the-badge&logo=openai&logoColor=white)]()
+[![Modelos open source](https://img.shields.io/badge/Modelos%20open%20source-bc8cff?style=for-the-badge&logo=openai&logoColor=white)]()
+[![SDD](https://img.shields.io/badge/SDD-3fb950?style=for-the-badge&logo=github&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-d29922?style=for-the-badge&logo=linux&logoColor=white)]()
+[![Termux](https://img.shields.io/badge/Termux-30363d?style=for-the-badge&logo=terminal&logoColor=white)]()
 
 ---
 
-<p align="center">
-  <sub>Última atualização dos stats: 17/09/2026 às 11:25 UTC</sub>
-  <br/>
-  <sub>Gerado com ♥ por <a href="https://github.com/tiagoeduardobr/tiagoeduardobr/actions">GitHub Actions</a></sub>
-</p>
+## Inteligência Artificial
+
+A IA é parte central do meu fluxo de trabalho — tanto como tecnologia aplicada nos projetos quanto como ferramenta de desenvolvimento.
+
+- **IA Generativa e LLMs:** aplicadas no Parecer Descritivo (Groq + GPT-OSS-20B) para apoiar a elaboração de pareceres, com mecanismos para reduzir o envio de dados pessoais à LLM.
+- **Modelos open source:** experimentação com modelos de IA open source.
+- **Orquestração de agentes de IA:** exploração de agentes para desenvolvimento (ex.: OpenCode), incluindo configuração para rodar no Termux (Android).
+- **AI-Assisted Development:** desenvolvimento assistido por IA com supervisão humana — a IA apoia na implementação, geração de código, análise, revisão, refatoração, testes, documentação e resolução de problemas; as decisões técnicas, especificação, integração, validação e evolução são conduzidas por mim.
+
+---
+
+## Engenharia de Software
+
+- **APIs REST** com FastAPI e autenticação JWT
+- **Testes automatizados** — 201 testes passando no Parecer Descritivo, integrados ao CI/CD
+- **CI/CD** integrado ao fluxo de desenvolvimento
+- **Docker** para containerização da aplicação
+- **Banco de dados** PostgreSQL (Neon) com SQL
+- **Spec-Driven Development (SDD)** — metodologia em estudo, aplicada em exercícios recentes
+- **Git e GitHub** — versionamento, documentação e colaboração
+
+---
+
+## Formação
+
+| Curso | Instituição | Período | Status |
+|---|---|---|---|
+| Análise e Desenvolvimento de Sistemas | UNIASSELVI | fev/2025 – jun/2027 | Em andamento |
+| Programação de Computadores | Entra21 / SENAI-SC | jan/2025 – set/2025 | Concluído |
+| React Native | SCTEC / Governo de Santa Catarina | — | Em andamento |
+
+---
+
+## Outros projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [BytePets](https://tiagoeduardobr.github.io/Desafio_SCTEC/) | Landing page premium para pet shop fictício tech/nerd — glassmorphism, semântica HTML, acessibilidade, SEO e performance | HTML5, CSS3, JavaScript |
+| [Análise de Dados](https://github.com/tiagoeduardobr/Desafio_SCTEC_Analise_de_dados) | Análise Exploratória de Dados (AED) com dataset Sample Superstore | Python, Pandas, Jupyter |
+| [Curso_Pessoal_Python](https://github.com/tiagoeduardobr/Curso_Pessoal_Python) | Portfólio de estudos em Python com engenharia de software, guiado por mentor de IA | Python |
+| [prompt-mentor](https://github.com/tiagoeduardobr/prompt-mentor) | Framework open-source de engenharia de prompt que simula mentor sênior de engenharia de software | Python, Typer, Poetry, pytest |
+| [desafioIA_react_native](https://github.com/tiagoeduardobr/desafioIA_react_native) | Exercício React Native + Expo (TypeScript) sobre padrões de useEffect, com orquestração de agentes de IA e SDD | React Native, Expo, TypeScript |
+| [opencode_termux](https://github.com/tiagoeduardobr/opencode_termux) | Configuração para rodar OpenCode no Termux (Android) como serviço web via Cloudflare Tunnel | Shell, proot-distro Ubuntu |
+| [react_native](https://github.com/tiagoeduardobr/react_native) | Registro de estudos React Native (SCTEC) | React Native |
+
+---
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoeduardobr/)
+[![GitHub](https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiagoeduardobr)
+[![E-mail](https://img.shields.io/badge/E--mail-d29922?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagoeduardobr@gmail.com)
+[![Parecer Descritivo](https://img.shields.io/badge/Parecer%20Descritivo-3fb950?style=for-the-badge&logo=globe&logoColor=white)](https://parecer-descritivo.onrender.com)
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Feito%20com%20%E2%9D%A4%20por-Tiago%20Eduardo%20Zimmermann-58a6ff?style=flat-square" alt="Feito com amor"/>
-  <br/>
-  <sub>© 2026 Tiago Eduardo Zimmermann</sub>
+  <img src="https://github-readme-stats-tiagoeduardobr.vercel.app/api?username=tiagoeduardobr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoeduardobr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Feito%20com%20%E2%9D%A4%20por%20Tiago%20Eduardo%20Zimmermann-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff" alt="Feito com ❤ por Tiago Eduardo Zimmermann" />
+</p>
+
+<p align="center">
+  <sub>Última atualização dos stats: 17/09/2026 às 19:35 UTC</sub>
+</p>
+
+<p align="center">
+  <sub>© 2026 Tiago Eduardo Zimmermann. Todos os direitos reservados.</sub>
+</p>
