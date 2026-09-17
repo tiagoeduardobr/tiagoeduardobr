@@ -4,23 +4,22 @@
 
 ## 1. Projeto
 
-Criar e manter um **perfil GitHub profissional** para Tiago Eduardo Zimmermann (Desenvolvedor Júnior em Blumenau/SC). O README.md do perfil inclui:
+Criar e manter um **perfil GitHub profissional** para Tiago Eduardo Zimmermann (Desenvolvedor de Software | Python | Full-Stack | React | APIs REST | IA Generativa). O README.md do perfil inclui:
 
-- **Hero**: Typing SVG "Eu sou" + "Tiago Eduardo Zimmermann" (split em 2 linhas) + badges (Localização, Disponibilidade, Nível) + contadores (Visitantes, Seguidores) + parágrafo descritivo — única introdução (H1 duplicado removido na refatoração de 17/09/2026)
-- **Sobre mim**: 6 bullets + card de stats GitHub (`width="100%"`)
-- **Projetos em Destaque**: 4 projetos um por linha (`<p align="center">`) + badge "Ver todos repos"
-- **Tech Stack**: 10 badges simplificados (TypeScript, React, React Native, Python, FastAPI, SQL, Pandas, Jupyter Notebook, Git, Docker) — de 17 para 10 na refatoração
-- **GitHub Analytics**: Stats + Top Langs + Streak empilhados full-width (cards duplicados removidos)
-- **Contato**: links de contato
-- **Footer**: "Última atualização dos stats" + badge "Feito com ❤ por Tiago Eduardo Zimmermann" + copyright
+- **H1**: "Olá, eu sou Tiago Eduardo Zimmermann 👋" + título "Desenvolvedor de Software | Python | Full-Stack | React | APIs REST | IA Generativa" + 4 badges (LinkedIn, GitHub, E-mail, Parecer Descritivo)
+- **Sobre mim**: 3 parágrafos — transição de carreira (~25 anos automotiva + TC Mecânica), competências transferíveis, formação ADS
+- **Atualmente**: 5 bullets (ADS UNIASSELVI, React Native SCTEC, migração gradual React, agentes IA/SDD, Linux/Termux)
+- **Projeto em destaque: Parecer Descritivo**: tabela de tecnologias (FastAPI, PostgreSQL/Neon, JS/HTML/CSS → React gradual, Docker/Git/CI/CD/Render, Groq+GPT-OSS-20B, JWT), 201 testes, LGPD práticas, AI-Assisted
+- **Stack e tecnologias**: "Em uso" (16 badges) + "Em estudo / experimentação" (7 badges)
+- **Inteligência Artificial**: 4 bullets (IA Generativa/LLMs, modelos open source, orquestração de agentes, AI-Assisted com supervisão humana)
+- **Engenharia de Software**: 7 bullets (APIs REST, testes 201, CI/CD, Docker, PostgreSQL, SDD em estudo, Git/GitHub)
+- **Formação**: tabela 3 cursos (ADS UNIASSELVI fev/2025-jun/2027 em andamento, Entra21/SENAI-SC jan/2025-set/2025 concluído, React Native SCTEC em andamento)
+- **Outros projetos**: tabela 7 projetos (BytePets, Análise de Dados, Curso_Pessoal_Python, prompt-mentor, desafioIA_react_native, opencode_termux, react_native)
+- **Conecte-se comigo**: 4 badges
+- **Stats**: 2 cards empilhados (stats deploy próprio + streak herokuapp)
+- **Footer**: badge "Feito com ❤", linha "Última atualização dos stats: 17/09/2026 às 19:35 UTC" (formato sed preservado), copyright
 
-**Seções removidas na refatoração (17/09/2026):**
-- H1 duplicado "Olá, eu sou o Tiago Eduardo Zimmermann!" (hero com typing SVG é a única introdução)
-- Stats duplicado (card agora só na seção Analytics)
-- Seção "🎯 Objetivo" (repetia hero e Sobre mim)
-- Trophies e Activity Graph (temporariamente — comentados com HTML comment documentando reativação)
-
-**Ordem atual das seções**: Hero → Sobre mim → Projetos em Destaque → Tech Stack → GitHub Analytics → Contato → Footer
+**Ordem atual das seções**: H1 → Sobre mim → Atualmente → Projeto em destaque → Stack e tecnologias → Inteligência Artificial → Engenharia de Software → Formação → Outros projetos → Conecte-se comigo → Stats → Footer
 
 ## 2. Serviços Vercel (Self-hosted)
 
@@ -32,7 +31,7 @@ O GitHub bloqueou os serviços públicos (503 DEPLOYMENT_PAUSED / 402 DEPLOYMENT
 | **Trophies** | `github-profile-trophy-erunocarm-tiagoeduardobrs-projects.vercel.app` | ryo-ma/github-profile-trophy | ❌ FUNCTION_INVOCATION_FAILED (GITHUB_TOKEN1/2 não configurados) |
 | **Activity Graph** | `github-readme-activity-graph.vercel.app` (público) | ashutosh00710/github-readme-activity-graph | ❌ DEPLOYMENT_DISABLED (HTTP 402) |
 
-> **Nota**: Trophies e Activity Graph estão **comentados no README** com HTML comments documentando reativação. Ambos precisam de solução própria (instância própria ou tokens configurados) antes de serem reativados.
+> **Nota**: Trophies e Activity Graph foram **removidos integralmente** na reescrita do README (f4a28ea) — não há HTML comments. Reativação exige re-adicionar os blocos ao README (referência: plano `20260917_0710_refatorar-readme-perfil.md`, Task 5) e solução própria (instância própria ou tokens configurados).
 
 ## 3. Variáveis de Ambiente Necessárias
 
@@ -75,10 +74,9 @@ O GitHub bloqueou os serviços públicos (503 DEPLOYMENT_PAUSED / 402 DEPLOYMENT
 
 ### Decisões de design:
 - **Layout 100% full-width** — GitHub strips media queries do README, então tudo precisa empilhar sem `<table>`
-- **Sem badges de paleta** — confundiam visitantes (mantidos apenas como HTML comment)
+- **Sem badges de paleta** — confundiam visitantes (removidos integralmente na reescrita f4a28ea)
 - **Cards empilhados** — Analytics e Projetos ficam melhor um por linha no mobile
-- **Typing SVG split** — "Eu+sou" e "Tiago+Eduardo+Zimmermann" em linhas separadas para não cortar
-- **Trophies/Graph removidos temporariamente** (17/09/2026) — substituídos por HTML comments documentando reativação; reativar quando serviços responderem HTTP 200
+- **Trophies/Graph removidos integralmente na reescrita** (17/09/2026) — sem HTML comments; reativar quando serviços responderem HTTP 200, re-adicionando os blocos ao README
 
 ## 6. Commits Importantes
 
@@ -90,22 +88,22 @@ O GitHub bloqueou os serviços públicos (503 DEPLOYMENT_PAUSED / 402 DEPLOYMENT
 | `5fd43d2` | Merge para main |
 | `04155b7` | refactor: reestruturar README do perfil GitHub (hero unificado, stack enxuta, seções reordenadas) |
 | `f48d3b2` | Merge branch 'feature/refatorar-readme-perfil' para main |
+| `f4a28ea` | docs: reescrever README com perfil profissional (reescrita integral, 163 linhas) |
 
 ## 7. Status Atual
 
-- ✅ README refatorado (hero unificado, 10 badges stack, seções reordenadas — 17/09/2026)
+- ✅ README reescrito integralmente (163 linhas, 9 seções, 32 badges — 17/09/2026)
 - ✅ Stats/Top Langs/Pins funcionando via Vercel próprio (PAT_1 renovado)
 - ✅ GitHub Actions atualizando stats diariamente
-- ✅ Paleta de cores documentada (HTML comment)
-- ❌ Trophies: comentado no README — precisa configurar `GITHUB_TOKEN1` e `GITHUB_TOKEN2` no Vercel e reativar
-- ❌ Activity Graph: comentado no README — instância pública retorna 402 (DEPLOYMENT_DISABLED), precisa instância própria
-- 📝 Planos em `.opencode/plans/`: v2 (10 tasks, concluído), responsividade (Tasks 1-4 concluídas, Task 5 pendente até trophy funcionar), refatorar-readme-perfil (concluído)
+- ❌ Trophies: removido do README (não comentado) — precisa configurar `GITHUB_TOKEN1` e `GITHUB_TOKEN2` no Vercel e re-adicionar o bloco ao README
+- ❌ Activity Graph: removido do README (não comentado) — instância pública retorna 402 (DEPLOYMENT_DISABLED), precisa instância própria e re-adicionar o bloco
+- 📝 Planos em `.opencode/plans/`: v2 (10 tasks, concluído), responsividade (Tasks 1-4 concluídas, Task 5 de verificação/commit pendente), refatorar-readme-perfil (concluído)
 
 ## 8. Estrutura do Projeto
 
 ```
 /root/Projetos/tiagoeduardobr/
-├── README.md                    # Perfil GitHub (~210 linhas, refatorado 17/09/2026)
+├── README.md                    # Perfil GitHub (~163 linhas, reescrito 17/09/2026)
 ├── .github/
 │   └── workflows/
 │       └── update-stats.yml     # Cron diário para atualizar stats
@@ -116,14 +114,14 @@ O GitHub bloqueou os serviços públicos (503 DEPLOYMENT_PAUSED / 402 DEPLOYMENT
         ├── 20260728_2125_melhorar-perfil-github.md
         ├── 20260729_0737_melhorar-perfil-github-v2.md
         ├── 20260730_2245_corrigir-responsividade-readme.md
-        └── 20260917_0710_refatorar-readme-perfil.md      # ✅ Concluído
+        └── 20260917_0710_refatorar-readme-perfil.md      # ✅ Concluído (plano concluído para o estado `04155b7`, superado pela reescrita integral `f4a28ea`)
 ```
 
 ## 9. Próximos Passos
 
 1. **Configurar `GITHUB_TOKEN1` e `GITHUB_TOKEN2`** no Vercel (projeto github-profile-trophy) + redeploy
 2. **Testar URL do trophy** com curl (HTTP 200 + SVG)
-3. **Reativar Trophies no README** — descomentar HTML comment, trocar para URL própria
+3. **Reativar Trophies no README** — re-adicionar bloco (referência: plano `20260917_0710_refatorar-readme-perfil.md`, Task 5), trocar para URL própria
 4. **Avaliar deploy próprio do Activity Graph** — instância pública retorna 402, precisa solução própria
 5. **Reativar Activity Graph no README** quando instância própria funcionar
 6. **Commit via `git-commit` agent**
