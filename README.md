@@ -155,7 +155,7 @@ A IA é parte central do meu fluxo de trabalho — tanto como tecnologia aplicad
 </p>
 
 <p align="center">
-  <sub>Última atualização dos stats: 20/09/2026 às 11:04 UTC</sub>
+  <sub>Última atualização dos stats: 21/09/2026 às 12:33 UTC</sub>
 </p>
 
 <p align="center">
